@@ -1,0 +1,33 @@
+* {
+    background-color: rgb(43, 43, 43);
+}
+
+h1 {
+    color: blanchedalmond;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: xx-large;
+    margin-bottom: 100px;
+}
+
+img {
+    
+    width: 300px;
+    margin: 20px;
+    
+}
+
+img.one {
+    margin-left: 4%;
+
+}
+
+img.two {
+    margin-right: 4%;
+
+}
+
+div {
+    margin-top: 20px;
+}
